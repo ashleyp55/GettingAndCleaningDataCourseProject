@@ -7,7 +7,7 @@ The purpose of this project is to demonstrate your ability to collect, work with
     1. README.md which provides a project and data overview <br>
     2. run_analysis.R which is the R script that was used to create the data set <br>
     3. tidy_data.txt which is the required tidy data set output <br>
-    4. CodeBook.md which is a code book that describes the variables, the data, and any transformations that were performed <br>
+    4. CodeBook.md which is a code book that describes the variables, the data, and any transformations that were performed <br><br><br>
 
 Description of Raw Data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones:
 
