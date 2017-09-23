@@ -3,10 +3,10 @@
 Project Specifications:
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers on a series of yes/no questions related to the project. This repository includes:
-    1) README.md which provides a project and data overview
-    2) run_analysis.R which is the R script that was used to create the data set
-    3) tidy_data.txt which is the required tidy data set output
-    4) CodeBook.md which is a code book that describes the variables, the data, and any transformations that were performed 
+    1. README.md which provides a project and data overview
+    2. run_analysis.R which is the R script that was used to create the data set
+    3. tidy_data.txt which is the required tidy data set output
+    4. CodeBook.md which is a code book that describes the variables, the data, and any transformations that were performed 
 
 Description of Raw Data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones:
 
@@ -19,10 +19,10 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 High Level Script Design (run_analysis.R in this repository):
 
 The following steps were taken to create the final tidy data set
-    1) Download data to local machine and set working directory
-    2) Import dplyr package
-    3) Read in training and test data and merge into one data set
-    4) Extracts only mean and standard deviation measurements
-    5) Replace raw column names with more descriptive column names
-    6) Creates separate tidy data set that averages each variable by subject and activity
-    7) Saves new tidy data set in a text file (tidy_data.txt in this repository)
+    1. Download data to local machine and set working directory
+    2. Import dplyr package
+    3. Read in training and test data and merge into one data set
+    4. Extracts only mean and standard deviation measurements
+    5. Replace raw column names with more descriptive column names
+    6. Creates separate tidy data set that averages each variable by subject and activity
+    7. Saves new tidy data set in a text file (tidy_data.txt in this repository)
