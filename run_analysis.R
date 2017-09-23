@@ -68,7 +68,7 @@ allDataColumns <- gsub("Gyro", "Gyroscope", allDataColumns)
 allDataColumns <- gsub("Mag", "Magnitude", allDataColumns)
 allDataColumns <- gsub("Freq", "Frequency", allDataColumns)
 allDataColumns <- gsub("mean", "Mean", allDataColumns)
-allDataColumns <- gsub("std", "Standard Deviation", allDataColumns)
+allDataColumns <- gsub("std", "StandardDeviation", allDataColumns)
 allDataColumns <- gsub("BodyBody", "Body", allDataColumns)
 
 ##Set new column names
