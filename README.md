@@ -21,10 +21,11 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 High Level Script Design (run_analysis.R in this repository):
 
 The following steps were taken to create the final tidy data set
-    1. Download data to local machine and set working directory
-    2. Import dplyr package
-    3. Read in training and test data and merge into one data set
-    4. Extracts only mean and standard deviation measurements
-    5. Replace raw column names with more descriptive column names
-    6. Creates separate tidy data set that averages each variable by subject and activity
-    7. Saves new tidy data set in a text file (tidy_data.txt in this repository)
+<div>
+    1. Download data to local machine and set working directory <br>
+    2. Import dplyr package <br>
+    3. Read in training and test data and merge into one data set <br>
+    4. Extracts only mean and standard deviation measurements <br>
+    5. Replace raw column names with more descriptive column names <br>
+    6. Creates separate tidy data set that averages each variable by subject and activity <br>
+    7. Saves new tidy data set in a text file (tidy_data.txt in this repository) <br>
