@@ -3,11 +3,12 @@
 Project Specifications:
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers on a series of yes/no questions related to the project. This repository includes:
-    1. README.md which provides a project and data overview
-    2. run_analysis.R which is the R script that was used to create the data set
-    3. tidy_data.txt which is the required tidy data set output
-    4. CodeBook.md which is a code book that describes the variables, the data, and any transformations that were performed 
-
+<div>
+    1. README.md which provides a project and data overview <br>
+    2. run_analysis.R which is the R script that was used to create the data set <br>
+    3. tidy_data.txt which is the required tidy data set output <br>
+    4. CodeBook.md which is a code book that describes the variables, the data, and any transformations that were performed <br>
+</div>
 Description of Raw Data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones:
 
 One of the most exciting areas in all of data science right now is wearable computing. Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
