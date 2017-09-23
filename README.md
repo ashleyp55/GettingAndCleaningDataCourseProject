@@ -21,6 +21,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 ### High Level Script Design (run_analysis.R in this repository):
 
 The following steps were taken to create the final tidy data set
+
     1. Download data to local machine and set working directory
     2. Import dplyr package
     3. Read in training and test data and merge into one data set
